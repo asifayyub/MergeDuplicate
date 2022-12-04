@@ -1,0 +1,30 @@
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.exe
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.deps.json
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.runtimeconfig.json
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.dll
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.pdb
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.csproj.AssemblyReference.cache
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.AssemblyInfoInputs.cache
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.AssemblyInfo.cs
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.csproj.CoreCompileInputs.cache
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.dll
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\refint\MergeDuplicate.dll
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.pdb
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.genruntimeconfig.cache
+C:\Foqus\Upwork\Merge Files\MergeDuplicate\obj\Debug\net7.0\ref\MergeDuplicate.dll
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.csproj.AssemblyReference.cache
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.AssemblyInfoInputs.cache
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.AssemblyInfo.cs
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.dll
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\refint\MergeDuplicate.dll
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.pdb
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.exe
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.deps.json
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.runtimeconfig.json
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.dll
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\bin\Debug\net7.0\MergeDuplicate.pdb
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\MergeDuplicate.genruntimeconfig.cache
+C:\Users\asifa\Downloads\MergeDuplicate\MergeDuplicate\obj\Debug\net7.0\ref\MergeDuplicate.dll
