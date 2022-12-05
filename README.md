@@ -4,7 +4,7 @@ inside that date format folder in both Admission & Scholarship need to add files
 
 Application will look only for current date folder in admission and if found then will look for current date folder in scholarship folder.
 
-However application will first check for days it wont run on Saturday and sunday.  
+However application will first check for days it wont run on Saturday and sunday.. 
 
 
 
